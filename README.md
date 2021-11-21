@@ -10,6 +10,7 @@ SRM-IST
 3. We have then predicted the people who may fall into non-adherence more by using machine learning algorithms and comparing various aspects.
 
 4. The solution of the same is done by creating an app using figma which is an umbrella app for all the needs of the patient.
+5. We have also created a website for the same.
           
 Tableau Link :
 https://public.tableau.com/views/OptumTeamRuntime-Terror/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
